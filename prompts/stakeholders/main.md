@@ -9,10 +9,8 @@ List of questions regarding the stakeholders of a Software Projects
 3. **What are the key deliverables expected from this project?**
  - Clarifies the tangible outputs expected from the project.
 
-
 4. **What are the expectations of the primary users regarding the system's functionality, performance, and usability?**
    - Helps define specific user requirements and expectations.
-
 
 5. **Are there any particular needs or constraints related to accessibility, security, or compliance that must be considered?**
    - Ensures the system meets legal and ethical standards, enhancing usability for all users.
@@ -22,7 +20,6 @@ List of questions regarding the stakeholders of a Software Projects
 
 7. **How will the success of the project be evaluated, and which metrics will be used to assess its impact on stakeholders?**
    - Defines success criteria and how it will be measured from a stakeholder perspective.
-
 
 8. **Are there any secondary users or beneficiaries of the system, and what are their specific requirements?**
     - Explores the needs of less direct but still important users to ensure comprehensive requirements gathering.
