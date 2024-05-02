@@ -1,4 +1,5 @@
 List of questions regarding the stakeholders of a Software Projects
+
 1. **What are the primary objectives and overall scope of the project?**
 - Sets a clear understanding of the project goals and boundaries.
 
