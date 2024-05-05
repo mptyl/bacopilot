@@ -26,4 +26,4 @@
    - Helps in managing expectations and resolving potential conflicts.
 
 10. **What ongoing support, training, or maintenance will stakeholders require post-implementation?**
-    - Plans for the long-term success and sustainability of the project by preparing for post-launch needs.
+    - Plans for the long-term success and sustainability of the project by preparing for post-launch needs.*
