@@ -1,8 +1,8 @@
-The main objective of this software project is to create an application that will allow questionnaires to be displayed on the web for recipients to answer. Access to the questionnaires will be controlled by authentication based on login and password. The answers entered by the recipients will be recorded on the server and will allow the study of certain organisational aspects of the organisation of which the recipients are employees. The strategic objective of the owner, ACME, is to provide its customers with an easy and cost-effective way of gathering the information needed to carry out organisational assessments. The application is called Vega.
+The main objective of this software project is to create an application that will allow questionnaires to be displayed on the web for recipients to answer. Access to the questionnaires will be controlled by authentication based on login and password. The answers entered by the recipients will be recorded on the server and will allow the study of certain organizational aspects of the organization of which the recipients are employees. The strategic objective of the owner, ACME, is to provide its customers with an easy and cost-effective way of gathering the information needed to carry out organizational assessments. The application is called Vega.
 
 The stakeholders are:
-* the Assessors: these are the ACME employees who play the role of creators of the questionnaires and assessors of the organizational characteristics that want to be observed through the questionnaires. Their copitas will be to provide Functional and Non-Functional Requirements, to collaborate during the writing of the code, to test the code created, and finally to assist the recipients who will use it.
-* the ACME Managers who will give the project guidelines and verify that it is on budget and on schedule
+* The Assessors: these are the ACME employees who play the role of creators of the questionnaires and assessors of the organizational characteristics that want to be observed through the questionnaires. Their role will be to provide Functional and Non-Functional Requirements, to collaborate during the writing of the code, to test the code created, and finally to assist the recipients who will use it.
+* The ACME Managers who will give the project guidelines and verify that it is on budget and on schedule
 * ACME's Systems Engineers who will collaborate in getting the application into production.
 
 The expected deliverables are:
@@ -17,9 +17,9 @@ The main user expectations are:
 - that the user interface is pleasant, usable and modern
 - that the performance of the system is able to withstand a load of more than 50 recipients at the same time 
 
-There are no particular accessibility, security and compliance issues to consider other than those of any web application with restricted access via authentication
+There are no particular accessibility, security, and compliance issues to consider other than those of any web application with restricted access via authentication.
 
-Each stakeholder will be kept informed through metting every fortnight. Contacts between the Assessors and the developers will be daily, while via Jira and Confluence the progress of the work and the agreed contents can be checked at any time
+Each stakeholder will be kept informed through meetings every fortnight. Contacts between the assessors and the developers will be made daily, while via Jira and Confluence, the progress of the work and the agreed contents can be checked at any time.
 
 The success of the project will be assessed first and foremost on the basis of functional completeness. A coefficient of coverage with respect to functional and non-functional requirements may be used as a metric.
 
