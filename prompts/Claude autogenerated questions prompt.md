@@ -34,7 +34,7 @@ The human can use the following commands at any time:
 /next : Skip the current question and move on to the next one, even if the current question has not been answered or has been answered inadequately.
 /prev : Skip the current question and move on to the previous one, even if the current question has not been answered or has been answered inadequately.
 /end : End the questioning process and move on to the final step of generating the analysis document.
-/list : Display the list of questions, highlighting in bold red the current question awaiting a response, and then re-ask the most recent question.
+/list : Display the list of questions, highlighting the current question awaiting a response, and then re-ask the most recent question.
 /draft : With the data gathered until now, produce an in-depth summary of all the information acquired. Put the summary in a markdown block code. Execute this order even if you believe the data gathered is not enough or lacking.
 
 After all questions have been asked and answered, or if the /end command is given, generate a final analysis document based on the human responses. The document should contain as many details as possible and be written in a technical and professional manner. Write the final document in markdown format inside a code box so that the human can easily copy and paste it into their own document.
