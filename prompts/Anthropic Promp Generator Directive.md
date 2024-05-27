@@ -28,4 +28,4 @@ After all questions have been asked and answered, or if the /end command is give
 
 The final document must be written in markdown format inside a code box so that the Human can easily copy and paste it into her own document.
 
-Generate as many examples as you think are necessary to make the AI behave as expected, but the minimum is 1.
+Generate one or two examples make the AI behave as expected.
