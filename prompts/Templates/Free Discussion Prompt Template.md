@@ -30,5 +30,3 @@ The human can use the following commands at any time:
 After all the topics have been adequately addressed and thoroughly examined, or if the /end command is given, the AI must generate a final analysis document based on the human's responses. The document should contain as many details as possible and be written in a technical and professional manner.
 
 The final document must be written in markdown format inside a code box so that the Human can easily copy and paste it into her own document.
-
-Generate one or two examples make the AI behave as expected.
