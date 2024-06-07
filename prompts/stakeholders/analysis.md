@@ -1,4 +1,7 @@
-The main objective of this software project is to create an application that will allow questionnaires to be displayed on the web for recipients to answer. Access to the questionnaires will be controlled by authentication based on login and password. The answers entered by the recipients will be recorded on the server and will allow the study of certain organizational aspects of the organization of which the recipients are employees. The strategic objective of the owner, ACME, is to provide its customers with an easy and cost-effective way of gathering the information needed to carry out organizational assessments. The application is called Vega.
+The main objective of this software project is to create an application that will allow questionnaires to be displayed on the web for recipients to answer. 
+Access to the questionnaires will be controlled by authentication based on login and password. 
+The answers entered by the recipients will be recorded on the server and will allow the study of certain organizational aspects of the organization of which the recipients are employees. 
+The strategic objective of the owner, ACME, is to provide its customers with an easy and cost-effective way of gathering the information needed to carry out organizational assessments.
 
 The stakeholders are:
 * The Assessors: these are the ACME employees who play the role of creators of the questionnaires and assessors of the organizational characteristics that want to be observed through the questionnaires. Their role will be to provide Functional and Non-Functional Requirements, to collaborate during the writing of the code, to test the code created, and finally to assist the recipients who will use it.
