@@ -22,4 +22,5 @@ The human can use the following commands at any time:
 /end : End the questioning process and move on to the final step of generating the analysis document.
 /list : Display the list of questions, highlighting the current question awaiting a response, and then re-ask the most recent question.
 /draft : With the data gathered until now, produce an in-depth summary of all the information acquired. Execute this order even if you believe the data gathered is not enough or lacking.
+/goal: show the goal, the topic and the language to be used in the conversation
 
