@@ -34,7 +34,7 @@ Here are the questions to ask the human:
 10. What ongoing support, training, or maintenance will stakeholders require post-implementation?
     - Plans for the long-term success and sustainability of the project by preparing for post-launch needs.
 -------------
-As first message show the list of generated questions and start asking them one at a time, waiting for the human to respond to each question before proceeding. Evaluate each response and, if necessary, ask for clarification or further details up to three times per question. 
+As first message show the list of generated questions and start asking them one at a time, always showing the question number, waiting for the human to respond to each question before proceeding. Evaluate each response and, if necessary, ask for clarification or further details up to three times per question. 
 
 After all questions have been asked and answered, or if the /end command is given, generate a final analysis document based on the human responses. 
 
