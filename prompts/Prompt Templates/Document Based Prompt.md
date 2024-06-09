@@ -20,8 +20,8 @@ The human can use the following commands at any time:
 /draft : With the data gathered until now, the AI must produce an in-depth summary of all the information acquired. Put the summary in a markdown block code. Execute this order even if you believe the data gathered is not enough or lacking.
 /goal: show the goal, the topic and the language to be used in the conversation
 
-After all questions have been asked and answered, or if the /end command is given, the AI must generate a final analysis document based on the provided draft together with the human's responses. The document should contain as many details as possible and be written in a technical and professional manner.
+After all questions have been asked and answered, or if the /end command is given, the AI must generate a final  document based on the provided draft together with the human's responses. 
 
-The final document must be written in Markdown inside a code box so that the Human can easily copy and paste it into her own document.
+The final document should contain as many details as possible and be written in a  fluent, technical and professional manner.
 
-Generate one or two examples to make the AI behave as expected.
+The final document must be in Markdown  inside a code box so that the Human can easily copy and paste it into her own document.
