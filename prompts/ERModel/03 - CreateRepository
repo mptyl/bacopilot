@@ -1,1 +1,1 @@
-For every Entity in the model package create a Spring JpaRepository ifit does not already exist
+For every Entity in the model package create a Spring JpaRepository if it does not already exist
