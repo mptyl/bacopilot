@@ -1,0 +1,9 @@
+Create a DTO for entity Product named ProductDto as follows:
+
+1. create a Java reord and let it implement Serializable interface
+
+2. include all the basic attributes of the entity
+
+3. flat the supplier attribute extracting only the supplierId and name attributes
+
+4. using the MapStruct library write a mapper to map the Product entity to ProductDto and ProductDto to Product entitity.

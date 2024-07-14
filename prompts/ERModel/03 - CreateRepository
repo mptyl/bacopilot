@@ -1,0 +1,1 @@
+For every Entity in the model package create a Spring JpaRepository ifit does not already exist

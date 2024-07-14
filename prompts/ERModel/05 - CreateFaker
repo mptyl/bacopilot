@@ -1,0 +1,1 @@
+Using the library net.datafaker generate a CommandLineRunner Bean for every Entity that create a list of 10 fake objects.
